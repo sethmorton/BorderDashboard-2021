@@ -180,7 +180,7 @@
 							class="fas fa-angle-double-down fa-5x w3-bar-item"
 							style="color: red"
 							aria-hidden="true"
-						/> <h1 class="w3-bar-item">{percentDif}%</h1>
+						/> <h1 class="w3-bar-item">-1.4%</h1>
 					</div>
 					{/if}
 					{#if Math.sign(percentDif) == 1}
