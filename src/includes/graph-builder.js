@@ -59,8 +59,14 @@ export default class graphBuilder {
                     borderWidth: 1
                 }]
             },
-            options: {
-                indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
             }
         })
     }
@@ -124,8 +130,18 @@ export default class graphBuilder {
                         return percentage + "%";
                       }
                     }
-                  } 
+                  },
+                  responsive: true,
+                  maintainAspectRatio: false,
+                  scales: {
+                      yAxes: [{
+                          ticks: {
+                              beginAtZero: true
+                          }
+                      }]
+                  }
             }
+            
         });
         //     });
         //     let myChart = Treemap().data({
