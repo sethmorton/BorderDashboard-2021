@@ -180,7 +180,7 @@
 <div class="w3-container w3-padding-64" style="height: 100vh;">
 	<div class="w3-row-padding" style="height: 90vh;">
 		<div class="w3-third m6 s4 w3-margin-bottom">
-			<div class="w3-card-4" style="height: 100vh">
+			<div class="w3-card-4" style="height: 60vh">
 				<header
 					class="w3-container"
 					style="background-color: #123C97; color: white; position: relative"
