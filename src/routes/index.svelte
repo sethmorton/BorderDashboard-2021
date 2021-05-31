@@ -166,7 +166,7 @@
 <div class="w3-top">
 	<div class="w3-bar w3-black w3-wide w3-padding w3-card">
 		<a href="#home" class="w3-bar-item w3-button"
-			><b>SB</b> Smart Border Coallition
+			><b>SB</b> Smart Border Coalition
 		</a>
 		<!-- Float links to the right. Hide them on small screens -->
 		<div class="w3-right w3-hide-small">
@@ -305,9 +305,9 @@
 						</div>
 					{/if}
 				</div>
-				<div class="chart-wrapper w3-center" style="height: 40vh;">
+				<!-- <div class="chart-wrapper w3-center" style="height: 40vh;">
 					<canvas id="borderGraph" />
-				</div>
+				</div> -->
 			</div>
 		</div>
 		<div class="w3-third 13 m6 s4 w3-container w3-margin-bottom">
