@@ -180,9 +180,9 @@
     </div>
 </div>
 <div class="w3-container w3-padding-64" style="height: 100vh;">
-    <div class="w3-row-padding" style="height: 90vh;">
+    <div class="w3-row-padding" style="height: 100vh;">
         <div class="w3-third m6 s4 w3-margin-bottom">
-            <div class="w3-card-4" style="height: 90vh">
+            <div class="w3-card-4" style="height: 100vh">
                 <header
                     class="w3-container"
                     style="background-color: #123C97; color: white; position: relative"
@@ -328,10 +328,10 @@
             </div>
         </div>
         <div class="w3-third 13 m6 s4 w3-container w3-margin-bottom">
-            <div class="w3-card-4" style="height: 90vh">
+            <div class="w3-card-4" style="height: 100vh">
                 <header
                     class="w3-container"
-                    style="background-color: #123C97; color: white; position: relative"
+                    style="background-color: #228B22; color: white; position: relative"
                 >
                     <h1 class="w3-center">Crossings of Goods</h1>
                     <div style="position: absolute;top: 10px;right: 30px;">
@@ -451,7 +451,7 @@
             </div>
         </div>
         <div class="w3-third 13 m6 s4  w3-margin-bottom">
-            <div class="w3-card-4" style="height: 90vh">
+            <div class="w3-card-4" style="height: 100vh">
                 <header
                     class="w3-container"
                     style="background-color: #849CC8; color: white;"
