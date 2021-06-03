@@ -166,7 +166,7 @@
     <!-- <script src="unpkg.com/treemap-chart"></script> -->
 </svelte:head>
 <div class="w3-top">
-    <div class="w3-bar w3-black w3-wide w3-padding w3-card">
+    <div class="w3-bar w3-blue w3-wide w3-padding w3-card">
         <a href="#home" class="w3-bar-item w3-button"
             ><b>SB</b> Smart Border Coalition
         </a>
